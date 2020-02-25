@@ -1,0 +1,10 @@
+0, 3396 Rogers Street, Loveland, Ohio, 90	
+9942, 1941 Johnny Lane, Milwaukee, Wisconsin, 90	
+9943, 1304 Yorkshire Circle, Wilson, North Carolina, 90	
+9944, 1603 Steve Hunt Road, Miami Springs, Florida, 90	
+9949, 4956 Stratford Park, Seymour, Indiana, 90	
+9950, 4604 Cody Ridge Road, Granite, Oklahoma, 90	
+9957, 3004 Jerry Toth Drive, Anchorage, Alaska, 90	
+9967, 2232 Wildwood Street, Akron, Ohio, 90	
+9973, 2517 Payne Street, Sugar Land, Texas, 90	
+9983, 1106 Hurry Street, Christiansburg, Virginia, 90	
